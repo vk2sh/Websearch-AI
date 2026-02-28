@@ -10,7 +10,8 @@
 
 ⚡ Fast & Lightweight – Optimized for speed and performance
 
-💬 Natural Language Queries – Ask questions the way you spea
-this link you can try 
+💬 Natural Language Queries – Ask questions the way you speak
+
+   this link you can try 
 
 # https://websearch-ai.vercel.app/
