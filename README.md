@@ -1,5 +1,4 @@
-# WebSearch AI is an intelligent search assistant that enhances traditional web search by combining real-time web data with AI-powered summarization and contextual understanding. Instead of returning just links, WebSearch AI delivers clear, concise, and relevant answers sourced directly from the web.
-
+# WebSearch AI is an intelligent search assistant that enhances traditional web search by combining real-time web data with AI-powered summarization and contextual understanding.
 🚀 Features
 
 🔎 Real-Time Web Search – Fetches up-to-date information from the internet
